@@ -1,0 +1,14 @@
+---
+title: ""
+--- 
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,  fig.align="center", out.extra = 'style="display:block; margin:0;"')
+```
+
+<div class=text-justify>
+
+<iframe title="Report Section" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiODk3YjcwY2MtOTA0NS00M2I0LWIwNTItY2Q2N2M2MzU4ZGQ1IiwidCI6ImNhOGYwOWY1LTMzNWUtNGZjNS04MDQxLWY1YjQ3MmEwMmVlZiIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
+
+
+</div>
